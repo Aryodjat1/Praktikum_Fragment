@@ -16,27 +16,27 @@ Praktikum Fragment | Aryo Djati | XI RPL 3 | 08
 <details>
   <summary><b>First Fragment</summary>
 
-![image](https://github.com/Aryodjat1/Praktikum_Fragment/blob/master/Screenshoot/Latihan_First.png)
+![image](https://github.com/Aryodjat1/Praktikum_Fragment/blob/master/Screenshoot/Praktikum_First.png)
 
 </details>
 
 <details>
   <summary><b>Second Fragment</summary>
 
-![image](https://github.com/Aryodjat1/Praktikum_Fragment/blob/master/Screenshoot/Latihan_Second.png)
+![image](https://github.com/Aryodjat1/Praktikum_Fragment/blob/master/Screenshoot/Praktikum_Second.png)
 
 </details>
     
 <details>
   <summary><b>First Fragment Setelah Di Isi</summary>
 
-![image](https://github.com/Aryodjat1/Praktikum_Fragment/blob/master/Screenshoot/Latihan_After_First.png)
+![image](https://github.com/Aryodjat1/Praktikum_Fragment/blob/master/Screenshoot/Praktikum_After_First.png)
 
 </details>
       
 <details>
   <summary><b>Second Fragment Setelah Di Isi</summary>
 
-![image](https://github.com/Aryodjat1/Latihan_Praktikum/blob/master/Screenshoot/Latihan_After_Second.png)
+![image](https://github.com/Aryodjat1/Praktikum_Fragment/blob/master/Screenshoot/Praktikum_After_Second.png)
 
 </details>
