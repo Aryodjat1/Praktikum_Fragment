@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aryo Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">First Fragment</string>
+    <string name="tab_text_2">Second Fragment</string>
+    <string name="user_display_name">User Display Nama</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="masukkan_nama_hint">Masukkan Nama</string>
+    <string name="masukkan_kelas_hint">Masukkan Kelas</string>
+    <string name="masukkan_absen_hint">Masukkan Absen</string>
+    <string name="masukkan_alamat_hint">Masukkan Alamat</string>
+    <string name="user_display_alamat">User Display Alamat</string>
+    <string name="user_display_absen">User Display Absen</string>
+    <string name="user_display_class">User Display Kelas</string>
+</resources>
